@@ -1,1 +1,1 @@
-Huffman Coding - Ameen Haq
+Huffman Compression Project - Ameen Haq
